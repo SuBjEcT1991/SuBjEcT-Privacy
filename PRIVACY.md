@@ -122,6 +122,54 @@ Updates will be published at this location and the **Last updated** date will be
 
 Users are encouraged to review this Privacy Policy periodically.
 
+## TrackMe
+
+TrackMe is a location utility that provides location testing, route simulation, real-device location tracking, saved locations, history and related features.
+
+### Location Data
+
+TrackMe may access precise or approximate location information when the user enables location-dependent features such as Live Location or real-location tracking.
+
+Tracking logs, saved locations, favourites, location history and simulation history are primarily stored locally on the user's device. SuBjEcT does not operate a TrackMe account system or maintain a user database containing this location history.
+
+### Route and Map Services
+
+When a user requests an online road route for route simulation, selected start and destination coordinates may be transmitted over an encrypted HTTPS connection to a third-party routing service so that the route can be calculated.
+
+TrackMe may also connect to third-party mapping or content-delivery services to provide map functionality. These third-party services may receive standard network information, such as an IP address, as part of normal internet communication.
+
+### Mock Location
+
+TrackMe uses Android's supported mock-location functionality for legitimate testing and development purposes.
+
+The user must explicitly select TrackMe as the mock-location application through Android Developer Options.
+
+TrackMe does not attempt to conceal mock-location status, bypass application integrity systems, or prevent Android or third-party applications from identifying a location as simulated.
+
+### Background Location Operation
+
+When a user explicitly starts location tracking or simulation, TrackMe may continue the operation while the application is not visible by using an Android foreground service.
+
+Android displays a persistent notification while this operation is active and provides the user with controls to stop it.
+
+### Data Export
+
+Users may choose to export completed tracking information to formats such as CSV or PDF. Exported files are created at the user's request and are controlled by the user after export.
+
+### TrackMe Pro and Google Play Purchases
+
+TrackMe may offer optional paid features through TrackMe Pro.
+
+Purchases and subscriptions are processed by Google Play. SuBjEcT does not directly receive or store users' full payment-card details.
+
+Google Play may process purchase, subscription and transaction information according to Google's applicable privacy policies and terms.
+
+### TrackMe Data Deletion
+
+TrackMe does not currently require a user account.
+
+Locally stored TrackMe information can be removed using available application controls, by clearing TrackMe's application data through Android settings, or by uninstalling the application.
+
 ## Contact
 
 Questions, concerns, or requests relating to privacy and applications created or managed by SuBjEcT can be directed to:
